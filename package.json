@@ -9,7 +9,13 @@
   "author": "Bavichugo",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.5.0",
+    "@discordjs/voice": "^0.10.0",
+    "discord-player": "^5.2.2",
     "discord.js": "^13.8.1",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "ffmpeg-static": "^4.4.1"
   }
 }
