@@ -1,5 +1,10 @@
 # discord-bot-UEPAA
 
+## Descrição
+
+UEPAAAAA RAPAIZZZZZ
+Voce ja quis ter algum bote no discord que faca os efeitos sonoros do programa "Vai dar Namoro" do Rodrigo Faro? Entao, isso e exatamente o que esse bot faz! 
+
 ## Instruções
 
 1. Criar arquivo .env com o token do bot que pode ser achado aqui: https://discord.com/developers/applications
