@@ -1,6 +1,6 @@
 # discord-bot-UEPAA
 
-## Instrucoes
+## Instruções
 
 1. Criar arquivo .env com o token do bot que pode ser achado aqui: https://discord.com/developers/applications
 2. Dentro do arquivo colocar o seguinte: TOKEN= token do bot
